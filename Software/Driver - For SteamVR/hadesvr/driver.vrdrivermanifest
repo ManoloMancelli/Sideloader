@@ -1,0 +1,12 @@
+{
+	"alwaysActivate": false,
+	"name" : "hadesvr",
+	"directory" : "",
+	"resourceOnly" : false,
+
+	"hmd_presence" :
+	[
+		"2833.*"
+	]
+}
+

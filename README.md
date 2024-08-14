@@ -1,7 +1,6 @@
 --------------------------------------------------------------------
 
 [![EN](docs/img/ukflag.png)](README.md)
-[![ES](docs/img/spainflag.png)](README_ES.md)
 
 ![name](docs/img/name.png)
 

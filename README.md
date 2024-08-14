@@ -5,10 +5,6 @@
 SteamVR Firmware based off of excellent [HadesVR](https://github.com/HadesVR/HadesVR)
 -
 
-
-
-[![EN](docs/img/ukflag.png)](README.md)
-
 ![name](docs/img/name.png)
 
 [![Discord](docs/img/Discord.png)](https://discord.gg/h2SFGEbuRH)

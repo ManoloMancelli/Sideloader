@@ -1,4 +1,3 @@
-Place the https://github.com/ManoloMancelli/Sideloader/tree/main/Software/Driver%20-%20For%20SteamVR/hadesvr inside C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers
 
 --------------------------------------------------------------------
 

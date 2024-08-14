@@ -1,6 +1,6 @@
 # Sideloader 1.5.1
 
-![1](docs/img/Sideloader 1.5.1.png)
+![1](docs/img/Sideloader.png)
 
 
 --------------------------------------------------------------------

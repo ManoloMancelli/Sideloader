@@ -1,4 +1,4 @@
-
+# Sideloader 1.5.1       [![Release](https://img.shields.io/github/v/release/HadesVR/HadesVR.svg)](../../releases/latest)
 --------------------------------------------------------------------
 
 [![EN](docs/img/ukflag.png)](README.md)

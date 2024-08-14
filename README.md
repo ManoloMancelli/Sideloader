@@ -2,7 +2,7 @@
 
 ![1](docs/img/Sideloader.png)
 
-SteamVR Firmware based off of excellent [![HadesVR](docs/img/Discord.png)](https://github.com/HadesVR/HadesVR)
+SteamVR Firmware based off of excellent [HadesVR](https://github.com/HadesVR/HadesVR)
 --------------------------------------------------------------------
 
 [![EN](docs/img/ukflag.png)](README.md)

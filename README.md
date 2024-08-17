@@ -28,12 +28,3 @@ FastIMU is an awesome package that supports many commonly used IMUs and comes wi
 First, you will need to install the Arduino IDE and connect your MCU to your computer via the USB connector.
 
 Once you have it connected and verified your Arduino IDE can work with your MCU, download FastIMU from the library manager.
-
-<p align="center"> <img src="ressources/img/FastIMU-lib.jpg"> </p>
-
-Wire up your IMU as recommended in Section 1.2.1.
-
-Find the Examples/Fastimu/Calibrated_relativty sketch in your Arduino IDE:
-<p align="center"> <img src="ressources/img/FastIMU-sketch.jpg"> </p>
-
-And finally, Upload it to your MCU.

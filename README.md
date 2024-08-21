@@ -6,6 +6,8 @@ SteamVR Firmware based off of excellent [HadesVR](https://github.com/HadesVR/Had
 
 # Gyro Core Version
 ![1](docs/img/custom_hardware_version.JPG)
+# Regular Pro-Micro Version
+![1](docs/img/promicro_version.JPG)
 # Pro-Micro USB-C Version
 ![1](docs/img/USBC_Version.JPG)
 

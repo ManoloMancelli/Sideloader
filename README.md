@@ -34,3 +34,6 @@ First, you will need to install the Arduino IDE and connect your MCU to your com
 Once you have it connected and verified your Arduino IDE can work with your MCU, download FastIMU from the library manager.
 
 ### Installing the SteamVR driver
+
+Choose the SteamVR driver corresponding to your main display's resolution.
+![1](docs/img/resolutions.png)

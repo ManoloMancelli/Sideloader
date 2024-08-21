@@ -6,6 +6,8 @@ SteamVR Firmware based off of excellent [HadesVR](https://github.com/HadesVR/Had
 
 # Gyro Core Version
 ![1](docs/img/custom_hardware_version.JPG)
+# Pro-Micro USB-C Version
+![1](docs/img/custom_hardware_version.JPG)
 
 ## Wiring the IMU and MCU
 The IMU needs to be connected to the MCU for power and communication.

@@ -24,7 +24,7 @@ SDA(pin 2)  ->  SDA
 SCL(pin 3)  ->  SCL  
 ```
 
-### 1.4.2 Programming your MCU
+### Programming your Arduino board
 
 As previously mentioned, we recommend you use an Arduino Pro Micro and an IMU supported by the FastIMU Library.
 FastIMU is an awesome package that supports many commonly used IMUs and comes with a pre-written Arduino sketch that works with Relativty.

@@ -4,7 +4,7 @@
 
 SteamVR Firmware based off of excellent [HadesVR](https://github.com/HadesVR/HadesVR)
 
-# Custom Hardware Version - Gyro Side
+# Gyro Core Version
 ![1](docs/img/custom_hardware_version.JPG)
 
 ## Wiring the IMU and MCU

@@ -38,3 +38,5 @@ Once you have it connected and verified your Arduino IDE can work with your MCU,
 Choose the SteamVR driver corresponding to your main display's resolution.
 
 ![1](docs/img/resolutions.png)
+
+[![Sideloader SteamVR firmware installation](https://img.youtube.com/vi/d8IYtZEhEC0/0.jpg)](https://www.youtube.com/watch?v=d8IYtZEhEC0)
